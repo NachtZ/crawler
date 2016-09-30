@@ -1,4 +1,4 @@
-package main
+package Crawler
 import (
     "fmt"
     "math"

@@ -6,7 +6,7 @@ map[idx]*node
 在检索的时候，使用dfs来进行检索，在dfs的时候记录下环的路径。（string或者数组）
 */
 
-package main
+package Crawler
 
 import (
     "fmt"
